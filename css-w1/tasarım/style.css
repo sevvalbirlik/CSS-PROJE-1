@@ -1,0 +1,29 @@
+/****************************Tasarım***************************/
+
+p {
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h1 {  
+    color: rgb(164, 64, 43);
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 30px;
+}
+
+body {
+    text-align: center;
+}
+
+h2 { 
+    color:rgb(112, 81, 40);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h3 {
+    color:rgb(165, 91, 0);
+}
